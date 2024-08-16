@@ -1,25 +1,59 @@
-## Hello everyone! Let's CODE!
+<h2 align="left">Main Tech Stack</h2>
 
-My name is Matheus Galasso, I'm a 22 y.o. Systems Analysis and Development student with a FullStack Development Intern experience. 
-I really like to code, learn and solve problems! Here you can check all my progress through my professional carreer.
-Fell free to explore, give me some tips and contribute with my projects. And:
-#### LETS CODE
-
-
-### Technology Session:
+###
 
 <div align="center">
-  
-![Java](https://img.shields.io/badge/java-FF0000.svg?style=for-the-badge&logo=openjdk&logoColor=FFF)![Spring](https://img.shields.io/badge/spring-39FF14.svg?style=for-the-badge&logo=spring&logoColor=black)![Python](https://img.shields.io/badge/python-000080?style=for-the-badge&logo=python&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=black)![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
+  <img width="50" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="80" alt="spring logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="80" alt="angularjs logo"  />
+  <img width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
 </div>
 
-### PROJECTS:
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gatasso&repo=AppBank&bg_color=000080&border_color=000080&show_icons=true&icon_color=9400D3&title_color=FF0000&text_color=39FF14)](https://github.com/Gatasso/AppBank)
+###
 
-### Where you can find me:
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galasso-matheus/) [![E-mail](https://img.shields.io/badge/-Email-000080?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:magalarom.corp@outlook.com)
+<h2 align="left">Utilities TechStack</h2>
 
+###
 
+<div align="center">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="65" alt="postgresql logo"  />
+  <img width="40" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="65" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="65" alt="intellij logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Other Technologies that I use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+</div>
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gatasso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2&custom_title=Projects%20Tech%20Stack" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gatasso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=false&order=1&custom_title=My%20track:" height="200" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gatasso&radius=16&theme=tokyo-day&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
