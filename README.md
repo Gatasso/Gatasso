@@ -1,23 +1,99 @@
-# 🚧 Atenção: Perfil em Manutenção 🚧
+<br clear="both">
 
-Olá, nobre visitante!
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=true&text=Hello%20and%20Welcome%20to%20my%20Github%20Profile!&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-Infelizmente, devido à correria nossa de cada dia, não estou tendo tempo para atualizar o meu Perfil....
+###
 
-Por isso mesmo, decidi que era hora de, tentar dar um passo para trás, antes de dar alguns mais à frente.
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gatasso.Gatasso&left_color=crimson&right_color=black"  />
+</div>
 
-Nem sempre conseguimos dar o foco e atenção necessárias para todas as atividades que desejamos. Somos humanos, e comigo não é diferente.
----
-### MAAAAAASSSSS...
-Prepare-se, pois tenho bastante coisa para mostrar à você, por aqui:
+###
 
-- ✅ **Projetos Concluídos**  
-- 🔄 **Projetos Refatorados**  
-- 🚧 **Projetos em Andamento**  
-- 💡 **Ideias para o futuro** 
+<h2 align="left"><Gtss></h2>
 
-Fique ligado, você não irá se arrepender!
----
-### See you, Space Cowboy
+###
 
-<img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" width="700"/>
+<details>
+<summary><h3 align="left">Know me Better</h3></summary>
+
+<p align="left">Currently pursuing a System Analysis and Development degree at Instituto Federal de Ciência e Tecnologia do Estado de São Paulo (IFSP).</p>
+
+<p align="left">Developer at STS Tecnologia, a specialized ERP Solutions for Small Business Software House.</p>
+
+<p align="left">Always aiming to impact society with Technology, I truly feel that we can make the world a better, funny and respectful place.</p>
+
+</details>
+
+###
+
+<details>
+<summary><h3 align="left">My Portfolio and Projects</h3></summary>
+
+<p align="left">🚧 Coming soon...</p>
+
+</details>
+
+###
+
+<details>
+<summary><h3 align="left">My TechStack</h3></summary>
+
+<p align="left">As an OpenSource enthusiast, I use Linux distros on my setup since 2023. Ubuntu, PopOS and Debian are examples of Distros I use on my setup.</p>
+
+<p align="left">Most of my projects include Java and Spring, but, I also use Python and Flask on college projects. Of course, always using Git as a Version Controller.</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="50" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" alt="flask logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo"  />
+</div>
+
+</details>
+
+###
+
+<details>
+<summary><h3 align="left">My Stats</h3></summary>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gatasso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Gatasso&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+</details>
+
+###
+
+<details>
+<summary><h3 align="left">Sharing my Songs</h3></summary>
+
+<p align="center">What's the point of coding in silence? <br>Checkout what I've been listen recently.</p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/gatasso">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gatasso&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+</details>
+
+###
+
+<h2 align="left"></Gtss></h2>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=See%20You,%20Space%20Cowboy&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
